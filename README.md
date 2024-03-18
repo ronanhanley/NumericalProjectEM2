@@ -1,0 +1,1 @@
+The .ipynb file is the code I used to create the images. I only uploaded it in case there was some problem, but it's really messy and not intended to be read. The report contains all the computational stuff, and the other pdf is the textbook problems and all the analytical work I did for the numerical project
